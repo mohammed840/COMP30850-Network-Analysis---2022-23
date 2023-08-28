@@ -34,5 +34,12 @@ Navigate to the Assignment2/ directory.
 Run the script create_twitter_network.py to create various network representations from the Twitter data.
 Run the script analyze_twitter_network.py to analyze and characterize the Twitter network.
 Refer to the assignment2_report.pdf for a comprehensive report on the analysis and results.
+
+# Grade: A+
+
+
+
+
+
 # Contact
 For any questions or inquiries related to the assignments or the repository, please feel free to contact us at your_email@example.com.
